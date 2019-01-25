@@ -1,5 +1,7 @@
 # LetsDoLunch
-Implementation of the "Let's Do Lunch" programming exercise
+My implementation of the "Let's Do Lunch" programming exercise.
+
+Prior to doing this exercise, I've only had experience with object oriented programming and data structures. I have yet to take an algorithims course, which is why my code isn't very efficient. I attempted this solution the best I could.
 
 
 Peggy Piranha and Samuel Amherst Salmon III (Sam) are old friends looking to get together for lunch. They haven’t seen each other in ages, but are keen on crossing paths for lunch. But where could they meet? They’re flexible on the ultimate destination, but there are few constraints.
