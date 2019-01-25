@@ -8,5 +8,8 @@ Peggy and Sam live in a fairly complicated watershed, with many rivers running t
 Input/Output
 Input and output are simple text, via standard input and standard output, respectively. Input will be provided in the format shown in the example below: the list of address pairs forming the map, followed by the list of addresses to avoid, the list of possible starting locations for Peggy, and finally the list of possible starting locations for Sam.
  
-![image](https://imgur.com/a/V0tTnGD)
  
+<img width="585" alt="screen shot 2019-01-25 at 2 14 18 pm" src="https://user-images.githubusercontent.com/22481757/51770665-23499780-20ac-11e9-9f36-513ece307933.png">
+
+
+
